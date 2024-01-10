@@ -41,7 +41,7 @@ public class Przedszkole {
 
     @Override
     public String toString() {
-        return "Przeczkole{" +
+        return "Przedszkole{" +
                 "nazwe='" + nazwe + '\'' +
                 ", adres='" + adres + '\'' +
                 ", listaSal=" + listaSal +
